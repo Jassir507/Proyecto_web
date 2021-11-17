@@ -2,5 +2,7 @@
 /* css Document */
 body
 {
-  background-color: red
+  background-color: darkred;
+  font-weight: bold;
+  color: antiquewhite;
 }
